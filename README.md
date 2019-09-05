@@ -3,6 +3,7 @@ linux (raspberry pi) create hotspot if local network not found
 
 original script is from source referenced below
 the setup required is described on the web site below
+
 modified by Paul W. Rogers to deal with no values found by iw
 or cases where the desired ssid is not in results even though it is available
 
